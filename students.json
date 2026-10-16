@@ -1,0 +1,66 @@
+{
+  "working_days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "students": [
+    {
+      "name": "Amit",
+      "roll_no": "101",
+      "attendance": {
+        "Monday": "Present",
+        "Tuesday": "Present",
+        "Wednesday": "Present",
+        "Thursday": "Present",
+        "Friday": "Present"
+      }
+    },
+    {
+      "name": "Rahul",
+      "roll_no": "102",
+      "attendance": {
+        "Monday": "Present",
+        "Tuesday": "Absent",
+        "Wednesday": "Present",
+        "Thursday": "Present",
+        "Friday": "Absent"
+      }
+    },
+    {
+      "name": "Priya",
+      "roll_no": "103",
+      "attendance": {
+        "Monday": "Present",
+        "Tuesday": "Present",
+        "Wednesday": "Present",
+        "Thursday": "Absent",
+        "Friday": "Present"
+      }
+    },
+    {
+      "name": "Sarthak",
+      "roll_no": "104",
+      "attendance": {
+        "Monday": "Absent",
+        "Tuesday": "Present",
+        "Wednesday": "Present",
+        "Thursday": "Absent",
+        "Friday": "Present"
+      }
+    },
+    {
+      "name": "Neha",
+      "roll_no": "105",
+      "attendance": {
+        "Monday": "Present",
+        "Tuesday": "Absent",
+        "Wednesday": "Present",
+        "Thursday": "Present",
+        "Friday": "Present"
+      }
+    }
+  ]
+}
